@@ -1,0 +1,8 @@
+﻿{
+	"Host": "localhost",
+	"Database": "transport_management",
+	"Username": "root",
+	"Password": "ваш_пароль",
+	"Port": 3306,
+	"SslMode": false
+}
